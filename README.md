@@ -5,6 +5,7 @@ A robust MVC web application that demonstrates clean architecture principles usi
 This application implements full CRUD operations with best practices for maintainability, scalability, and separation of concerns.
 
 ✅ Key Features
+
 🧱 MVC Architecture
 Clean separation of models, views, and controllers.
 
