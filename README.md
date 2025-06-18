@@ -18,9 +18,6 @@ Manage entities through Entity Framework Core with database-first or code-first 
 🔄 AutoMapper
 Maps entities to view models and vice versa for cleaner controller logic.
 
-📬 SMTP Email Sending
-Sends emails (e.g., confirmation, notifications) via SMTP.
-
 📎 File Upload Support
 Allows users to upload and manage files securely.
 
